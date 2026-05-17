@@ -1,8 +1,8 @@
 {
-  "name": "@stockseyes/market-domain",
+  "name": "@srijantrivedi/market-domain",
   "version": "0.1.6",
   "description": "Market domain library",
-  "author": "Tushar Singhal",
+  "author": "Srijan Trivedi",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
